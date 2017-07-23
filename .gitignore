@@ -1,0 +1,16 @@
+# We'll probably share the data via a dropbox link. Putting it on github takes up too much space
+Data/*
+Data/Img/*
+components/training_labels_bear/*
+Data/cam_checkpoint.hdf5
+Data/weights_bears.hdf5
+*.pkl
+
+#Python files
+*.pyc
+
+# Output files
+*.png
+*.jpg
+
+writeup/*

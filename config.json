@@ -1,0 +1,13 @@
+{
+	"data_dir":"Data/",
+    "img_dir":"Data/Img",
+	"weight_dir":"Data/",
+    "model_dir":"Data/",
+	"height":128,
+	"width":128,
+	"num_img":1,
+	"have_pkl":false,
+	"non_dead":5,
+	"top_x":5,
+	"activation_cases":[0, 1, 2, 3, 4, 5]
+}
