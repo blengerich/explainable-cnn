@@ -9,7 +9,7 @@ Please cite the following paper:
 ```
 @article{lengerich2017visual,
     title={Visual Explanations for Convoluational Neural Networks by Input Resampling},
-    author={Lengerich, Benjamin J. and Konam, Sandeep* and Xing, Eric P. and Rosenthal, Stephanie and Veloso, Manuela},
+    author={Lengerich, Benjamin J. and Konam, Sandeep and Xing, Eric P. and Rosenthal, Stephanie and Veloso, Manuela},
     journal={ICML Workshop on Visualization for Deep Learning},
     year={2017}
 }
