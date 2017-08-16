@@ -4,7 +4,7 @@ Code to accompany the paper "Visual Explanations for Convolutional Neural Networ
 
 Please contact `blengeri [@] cs.cmu.edu` with questions.
 
-##### Citing
+### Citing
 Please cite the following paper:
 ```
 @article{lengerich2017visual,
@@ -15,12 +15,12 @@ Please cite the following paper:
 }
 ```
 
-##### Usage
+### Usage
 ```
 python run_deconv.py
 ```
 
-##### Dependencies
+### Dependencies
 Used Keras with Theano as backend
 - `Keras`: (1.1.0)
 - `Theano`: (0.9.0dev2)
