@@ -29,7 +29,7 @@ def load_or_create_patches(image_data, target_layers, Dec,
 
     """
     pkl_filename = "{}/patches.pkl".format(pkl_dir)
-    patches = load_patches(pkl_filename)  # TODO: delete patches, we are storing these differently now
+    patches = load_patches(pkl_filename)
 
     if patches is None:
         patches = create_patches(

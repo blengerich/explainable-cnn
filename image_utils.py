@@ -319,8 +319,6 @@ def load_images(picture_name, height, width, img_dir):
 
 def crop_images(X_ori, X_deconv):
     """
-    TODO: figure out what this function does (slow?)
-
     Args:
         X_ori:
         X_deconv:
